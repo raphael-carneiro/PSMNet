@@ -32,9 +32,10 @@ Recent work has shown that depth estimation from a stereo pair of images can be 
 
 - [Python2.7](https://www.python.org/downloads/)
 - [PyTorch(0.3.0+)](http://pytorch.org)
-- torchvision 0.2.0 (higher version may cause issues)
+- [torchvision 0.2.0](https://pypi.org/project/torchvision/0.2.0/) (higher version may cause issues) (url added by Raphael V. Carneiro)
 - [KITTI Stereo](http://www.cvlibs.net/datasets/kitti/eval_stereo.php)
 - [Scene Flow](https://lmb.informatik.uni-freiburg.de/resources/datasets/SceneFlowDatasets.en.html)
+- [scikit-image](http://scikit-image.org/docs/dev/install.html) (dependency added by Raphael V. Carneiro)
 
 ```
 Usage of Scene Flow dataset
